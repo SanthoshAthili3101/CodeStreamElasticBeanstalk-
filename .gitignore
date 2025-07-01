@@ -1,0 +1,17 @@
+﻿# Visual Studio files
+.vs/
+*.vsidx
+*.suo
+*.user
+
+# Build output
+bin/
+obj/
+
+# Docker-related
+*.dockerignore
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml

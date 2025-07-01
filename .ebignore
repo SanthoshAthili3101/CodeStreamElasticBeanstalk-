@@ -1,0 +1,12 @@
+﻿.vs/
+bin/
+obj/
+*.user
+*.suo
+*.md
+*.log
+*.db
+*.sqlite
+docker-compose*
+.git/
+Dockerfile.debug
